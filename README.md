@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Anushka Rathore! 👋</h1>
-  <h3>✨ Data Alchemist | Machine Learning Engineer | MERN Stack Developer ✨</h3>
+  <h1>Hi there, I'm Anushka Rathore! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=276DC3&center=true&vCenter=true&width=600&lines=Data+Alchemist;Machine+Learning+Engineer;MERN+Stack+Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
+  </a>
+  
   <p><i>Weaving data, algorithms, and full-stack logic to build intelligent, scalable solutions.</i></p>
 </div>
 
@@ -10,7 +15,7 @@
 
 * 🔭 I’m currently building end-to-end applications and diving deep into **Data Science & Machine Learning**.
 * 🧠 I love unraveling complex datasets, optimizing database architectures, and solving algorithmic challenges.
-* 💡 bridging the gap between data-driven insights and interactive web interfaces.
+* 💡 Bridging the gap between data-driven insights and interactive web interfaces.
 * 📫 How to reach me: **[Add LinkedIn/Email link here]**
 
 ---
