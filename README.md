@@ -4,58 +4,70 @@
 
 <!-- Animated Typing Effect (Matches Yash-Shukla11 Styling Exactly) -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer;Web+Developer&font=Fira+Code&center=true&width=500&height=45&color=176BEF&vCenter=true" alt="Typing SVG" />
+  <a href="https://github.com/anushkarathore14">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Full+Stack+Developer;Data+Scientist;Machine+Learning+Engineer&font=Fira+Code&center=true&width=500&height=45&color=176BEF&vCenter=true" alt="Typing SVG" />
   </a>
 </p>
-
-<div align="center">
-  <p><i>Building intelligent data systems and crafting seamless web experiences.</i></p>
-</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 I’m currently developing data-driven applications and expanding my expertise in **Data Science & Machine Learning**.
-* 🧠 I enjoy unravelling complex datasets, optimizing database architectures, and solving algorithmic problems.
-* 💡 Bridging the gap between predictive insights and clean user interfaces using core web technologies.
-* 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/anushka-rathore-a30198330/)** or check out my work on **[Kaggle](https://www.kaggle.com/anushkarathore14)**.
+* 🔭 I’m currently working on **Data Science**.
+* 🌱 I’m expanding my skills in **Machine Learning, Deep Learning, and Data Structures & Algorithms**.
+* ⚡ Fun fact: I love building seamless user interfaces and combining them with powerful data insights.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
+## 🛠️ Tech Stack
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C8EAD?style=for-the-badge&logo=xgboost&logoColor=white)
 
-*(Core Scikit-Learn toolkit: Support Vector Machines (SVM), Random Forest, K-Means Clustering, PCA, & Linear Models)*
+*(Focus areas: Predictive Modeling, Natural Language Processing (NLP), and Data Analysis)*
 
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Data Visualization
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+### ⚙️ Environments, MLOps & Deployment
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anushka-rathore-a30198330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/anushkarathore14" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkarathore14&show_icons=true&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkarathore14&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Streak" />
 </div>
+
+---
+
