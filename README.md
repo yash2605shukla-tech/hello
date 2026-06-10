@@ -64,9 +64,9 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkarathore14&show_icons=true&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-rathore14&show_icons=true&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkarathore14&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-rathore14&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Streak" />
 </div>
 
 ---
